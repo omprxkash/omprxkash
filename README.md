@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI Engineer at **PTC (Windchill)** · Co-Founder at **CosmosAId**<br>
+AI Engineer at **PTC (Windchill)** · Co-Founder at **[CosmosAId](https://github.com/omprxkash/cosmos)**<br>
 Working on LLM memory, context distillation, and retrieval-augmented systems across NLP, computer vision, and multimodal pipelines. Research published in IEEE on OCR, intrusion detection, conflict-zone analysis, and medical imaging.<br>
 [Portfolio](https://omprxkash.github.io)<br>
 [LinkedIn](https://linkedin.com/in/omprxkash)<br>
